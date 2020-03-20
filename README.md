@@ -3,7 +3,7 @@
 
 It includes all the assignments solved while taking [CIS-194 Introduction to Haskell](https://www.cis.upenn.edu/~cis194/spring13/lectures.html).
 
-- [ ] hw1
+- [x] hw1
 - [ ] hw2
 - [ ] hw3
 - [ ] hw4
@@ -11,8 +11,7 @@ It includes all the assignments solved while taking [CIS-194 Introduction to Has
 - [ ] hw6
 - [ ] hw7
 - [ ] hw8
-- [ ] hw9
+- [x] hw9 - no HW
 - [ ] hw10
 - [ ] hw11
 - [ ] hw12
-
