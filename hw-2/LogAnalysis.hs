@@ -39,6 +39,3 @@ whatWentWrong [] = []
 whatWentWrong ((LogMessage (Error lvl) _ msg) : msgs) | (lvl >= 50) = [msg]  ++ (whatWentWrong msgs)
 whatWentWrong (_: msgs) = whatWentWrong msgs
 
-
-
-

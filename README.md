@@ -4,7 +4,7 @@
 It includes all the assignments solved while taking [CIS-194 Introduction to Haskell](https://www.cis.upenn.edu/~cis194/spring13/lectures.html).
 
 - [x] hw1
-- [ ] hw2
+- [x] hw2
 - [ ] hw3
 - [ ] hw4
 - [ ] hw5
